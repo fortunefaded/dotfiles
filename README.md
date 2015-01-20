@@ -1,3 +1,1 @@
-# dotfiles
-dotfiles in local env
-'これがないと爆死する'
+これがないと爆死する
